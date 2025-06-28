@@ -9,6 +9,7 @@ flatbuffers==25.2.10
 gast==0.6.0
 google-pasta==0.2.0
 grpcio==1.73.1
+gunicorn==23.0.0
 h5py==3.14.0
 idna==3.10
 importlib_metadata==8.7.0
@@ -26,6 +27,7 @@ numpy==2.0.2
 opt_einsum==3.4.0
 optree==0.16.0
 packaging==25.0
+pillow==11.2.1
 protobuf==5.29.5
 Pygments==2.19.2
 requests==2.32.4
