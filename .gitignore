@@ -1,0 +1,28 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore system files
+.DS_Store
+
+# Ignore model weight files (optional — keep if model is large)
+*.h5
+
+# Ignore uploaded images folder contents, but keep the folder
+static/uploads/*
+
+# Ignore backup zips
+*.zip
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore logs
+*.log
+
