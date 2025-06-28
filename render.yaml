@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: butterfly-classifier
+    env: docker
+    plan: free
